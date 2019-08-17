@@ -1,5 +1,5 @@
 # Capstone Project 
-# Machine Learning Nanodegree 12th August' 2019
+# Machine Learning Nanodegree 17th August' 2019
 
 This directory contain all code neede for the capstone project. All the jupyter notebooks are kept in Notebooks folder.
 
