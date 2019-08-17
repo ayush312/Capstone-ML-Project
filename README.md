@@ -9,8 +9,9 @@ project are below.
 * [The project proposal: Proposal/proposal.pdf](Proposal/proposal.pdf) 
 * [The final project report: Report/Report.pdf](Report/Report.pdf)
 
-Software used in the project are: Python 3, jupyter notebooks, MS word, git bash,
-Main libraries used in the project are: IPython.display, librosa, matplotlib, pandas, os, scipy.io, numpy, sklearn, keras (layers, optimizers, utils), datetime
+Software used in the project are: Python 3, jupyter notebooks, MS word, git bash.
+
+Important libraries used in the project are: IPython.display, librosa, matplotlib, pandas, os, scipy.io, numpy, sklearn, keras (layers, optimizers, utils), datetime
 
 Additionally you will find: 
 * Dataset sample - subsection of the data used within the project so you don't need to download the full dataset. The full dataset can be downloaded from [here](https://urbansounddataset.weebly.com/urbansound8k.html). 
