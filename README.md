@@ -6,7 +6,7 @@ This directory contain all code neede for the capstone project. All the jupyter 
 The links to the project proposal and the write-up of the final 
 project are below.
 
-* [The project proposal: Proposal/Proposal.pdf](Proposal/proposal.pdf) 
+* [The project proposal: Proposal/proposal.pdf](Proposal/proposal.pdf) 
 * [The final project report: Report/Report.pdf](Report/Report.pdf)
 
 Additionally you will find: 
