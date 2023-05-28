@@ -1,17 +1,20 @@
-# Capstone Project 
-# Machine Learning Nanodegree 17th August' 2019
+# Text Classification Project
 
-This directory contain all code neede for the capstone project. All the jupyter notebooks are kept in Notebooks folder.
+## Data: 
+The MITRE ATT&CK framework is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations of cyber-attacks. The framework categorizes tactics and techniques used by adversaries in order to help organizations better understand and defend against cyber threats.
 
-The links to the project proposal and the write-up of the final 
-project are below.
+## Objective:
+Develop a supervised machine learning algorithm that can learn the relationship between attack descriptions and the corresponding MITRE technique. 
 
-* [The project proposal: Proposal/proposal.pdf](Proposal/proposal.pdf) 
-* [The final project report: Report/Report.pdf](Report/Report.pdf)
+## Methodology:
+- Data checks
+- Data Preprocessing
+- Create features using TF-IDF vectorizer
+- Train simple models and check accuracy
+- Select model with good accuracy and tunne the model on different parameters using gridsearch.
 
-Software used in the project are: Python 3, jupyter notebooks, MS word, git bash.
+## Final Result:
+The final accuracy on test set is 73.33% on GBM model. However thers is no improvement on model tunning. 
 
-Important libraries used in the project are: IPython.display, librosa, matplotlib, pandas, os, scipy.io, numpy, sklearn, keras (layers, optimizers, utils), datetime
-
-Additionally you will find: 
-* Dataset sample - subsection of the data used within the project so you don't need to download the full dataset. The full dataset can be downloaded from [here](https://urbansounddataset.weebly.com/urbansound8k.html). 
+## Next Step:
+Tune models on more range of paramenets and also add some more fatcor like min_samples_split, min_samples_leaf, etc.
